@@ -22,4 +22,4 @@ No installation is required to use the Health Assistant Chatbot. Simply visit ou
 
 We welcome contributions from the community! If you have any suggestions or would like to report a bug, please open an issue or submit a pull request.
 ## Screen
-![Uploading screen.png…]()
+![screen](https://github.com/IkhlasQass19/Health-Assistant-Chatbot/assets/129891260/e8e37bb1-9915-43b8-ac1b-06379816a0bb)
